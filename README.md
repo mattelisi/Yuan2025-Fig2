@@ -4,7 +4,7 @@ This repository contains a reproducible numerical examination of the points in f
 
 Hang Yuan (2025), *Artificial intelligence in language learning: biometric feedback and adaptive reading for improved comprehension and reduced anxiety*, Humanities and Social Sciences Communications 12:556, Figure 2, PDF p.9. https://doi.org/10.1057/s41599-025-04878-w
 
-This is a summary of a broader audit conducted with the help of an AI assistant. The paper contains also a number of other inconsistencies that are not discussed in this repository. The aim of this repository is just to demonstrate the compatibility of the data plotted in fig.2 with a synthetic data gneration procedure.
+This is a summary of a broader audit conducted with the help of an AI assistant. The paper contains also a number of other inconsistencies that are not discussed in this repository. The aim of this repository is just to demonstrate the compatibility of the data plotted in fig.2 with a synthetic data generation procedure.
 
 ## Files
 
