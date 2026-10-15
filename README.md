@@ -102,6 +102,4 @@ The notebook projects generated axis coordinates into the **exact calibrated ima
 
 ## Interpretation
 
-This is a **reproduction of an exploratorily identified candidate**, not a blind discovery or a significance test. It deliberately excludes the full audit's seed search.
-
-The close correspondence concerns **paired 2D locations**, not merely similar Gaussian distributions. It supports a specific synthetic procedure compatible with the published figure.
+This is a reproduction of an exploratorily identified candidate. It deliberately excludes the full audit's seed search. The close correspondence concerns **paired 2D locations**, not merely similar Gaussian distributions. It supports a specific synthetic procedure compatible with the published figure.
